@@ -25,7 +25,6 @@ export class LoginComponent implements OnInit {
     } catch (e) {
       alert('Login fehlgeschlagen!');
       console.error(e);
-
     }
   }
 
